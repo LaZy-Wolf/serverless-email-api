@@ -1,0 +1,9 @@
+/node_modules
+.env
+lone-461009-06de97721e9a.json
+ui/node_modules
+ui/.vercel
+.serverless
+dist
+*.log
+__pycache__/
